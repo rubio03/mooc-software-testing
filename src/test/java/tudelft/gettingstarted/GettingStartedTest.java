@@ -11,6 +11,7 @@ public class GettingStartedTest {
         Assertions.assertEquals(25,result);
     }
 
+    // adding one comment line to test committing and saving to git
 //    UNCOMMENT THE CODE BELOW, AND FILL THE GAPS!
 
 //    @Test
